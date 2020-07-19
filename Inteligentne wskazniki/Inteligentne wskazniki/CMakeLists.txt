@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Informatyka_S_SOB_31i_Guz_Maria_32i_Maludziski_Wojciech_33i_Ptko_Karol_28_04_20_LK5)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Informatyka_S_SOB_31i_Guz_Maria_32i_Maludziski_Wojciech_33i_Ptko_Karol_28_04_20_LK5 main.cpp)
