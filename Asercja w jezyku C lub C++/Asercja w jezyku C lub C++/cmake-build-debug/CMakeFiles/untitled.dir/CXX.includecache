@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mania/CLionProjects/untitled/Element.cpp
+Element.h
+C:/Users/Mania/CLionProjects/untitled/Element.h
+
+C:/Users/Mania/CLionProjects/untitled/Element.h
+iostream
+-
+string
+-
+cstdlib
+-
+fstream
+-
+cassert
+-
+
+C:/Users/Mania/CLionProjects/untitled/List.cpp
+List.h
+C:/Users/Mania/CLionProjects/untitled/List.h
+
+C:/Users/Mania/CLionProjects/untitled/List.h
+Element.h
+C:/Users/Mania/CLionProjects/untitled/Element.h
+
+C:/Users/Mania/CLionProjects/untitled/main.cpp
+Element.cpp
+C:/Users/Mania/CLionProjects/untitled/Element.cpp
+List.cpp
+C:/Users/Mania/CLionProjects/untitled/List.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+fstream
+-
+
